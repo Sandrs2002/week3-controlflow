@@ -1,0 +1,16 @@
+C:\Users\aleks\source\repos\ControlFlow\GradingIf\bin\Debug\net5.0\GradingIf.exe
+C:\Users\aleks\source\repos\ControlFlow\GradingIf\bin\Debug\net5.0\GradingIf.deps.json
+C:\Users\aleks\source\repos\ControlFlow\GradingIf\bin\Debug\net5.0\GradingIf.runtimeconfig.json
+C:\Users\aleks\source\repos\ControlFlow\GradingIf\bin\Debug\net5.0\GradingIf.runtimeconfig.dev.json
+C:\Users\aleks\source\repos\ControlFlow\GradingIf\bin\Debug\net5.0\GradingIf.dll
+C:\Users\aleks\source\repos\ControlFlow\GradingIf\bin\Debug\net5.0\ref\GradingIf.dll
+C:\Users\aleks\source\repos\ControlFlow\GradingIf\bin\Debug\net5.0\GradingIf.pdb
+C:\Users\aleks\source\repos\ControlFlow\GradingIf\obj\Debug\net5.0\GradingIf.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\ControlFlow\GradingIf\obj\Debug\net5.0\GradingIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\ControlFlow\GradingIf\obj\Debug\net5.0\GradingIf.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\ControlFlow\GradingIf\obj\Debug\net5.0\GradingIf.AssemblyInfo.cs
+C:\Users\aleks\source\repos\ControlFlow\GradingIf\obj\Debug\net5.0\GradingIf.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\ControlFlow\GradingIf\obj\Debug\net5.0\GradingIf.dll
+C:\Users\aleks\source\repos\ControlFlow\GradingIf\obj\Debug\net5.0\ref\GradingIf.dll
+C:\Users\aleks\source\repos\ControlFlow\GradingIf\obj\Debug\net5.0\GradingIf.pdb
+C:\Users\aleks\source\repos\ControlFlow\GradingIf\obj\Debug\net5.0\GradingIf.genruntimeconfig.cache
